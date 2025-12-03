@@ -189,3 +189,4 @@ in/PlotToxinLoci.R   -i ToxCodAnGenome_outputNajaS2/toxin_annotation_GENE_NajaS2
 <figcaption aria-hidden="true">Naja Query Karyoplot</figcaption>
 </figure>
 
+
